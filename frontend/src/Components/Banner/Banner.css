@@ -1,0 +1,11 @@
+.bannerbg{
+
+    background-image: url("HD-wallpaper-cabs-new-york-traffic-transport-yellow-abstract-graphy-bw-taxi-road-street.jpg");
+    height: 100vh;
+    margin-top: -40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
